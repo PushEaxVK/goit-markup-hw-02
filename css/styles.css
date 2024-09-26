@@ -38,6 +38,10 @@ a {
   text-decoration: none;
 }
 
+ul {
+  list-style-type: none;
+}
+
 .logo {
   font-family: 'Raleway', sans-serif;
   font-optical-sizing: auto;
