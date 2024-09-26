@@ -22,3 +22,22 @@
   font-weight: 700;
   font-style: normal;
 }
+
+a {
+  text-decoration: none;
+}
+
+.logo {
+  font-family: 'Raleway', sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  text-transform: uppercase;
+  line-height: 1.16667;
+  letter-spacing: 0.03em;
+  color: #2e2f42;
+}
+
+.logo span {
+  color: #4d5ae5;
+}
