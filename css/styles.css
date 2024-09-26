@@ -25,12 +25,12 @@
 
 body {
   font-family: 'Roboto', 'Arial', 'Helvetica', sans-serif;
-  font-weight: 400;
+  /* font-weight: 400; */
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-  font-style: normal;
+  /* font-style: normal; */
 }
 
 a {
@@ -71,6 +71,7 @@ a {
   letter-spacing: 0.04em;
   color: #fff;
   white-space: nowrap;
+  cursor: pointer;
 }
 
 .button:hover,
