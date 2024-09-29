@@ -58,8 +58,12 @@ ul {
   color: #434455;
 }
 
-.link:hover,
-.contact-link:hover {
+.link:hover {
+  color: #404bbf;
+}
+
+.contact-link:hover,
+.contact-link:focus {
   color: #404bbf;
 }
 
