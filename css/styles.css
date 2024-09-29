@@ -137,3 +137,19 @@ ul {
   text-align: center;
   color: #2e2f42;
 }
+
+.site-bottom {
+  background: #2e2f42;
+  color: #f4f4fd;
+}
+
+.bottom-logo {
+  font-family: 'Raleway', sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  text-transform: uppercase;
+  line-height: 1.16667;
+  letter-spacing: 0.03em;
+  color: #f4f4fd;
+}
