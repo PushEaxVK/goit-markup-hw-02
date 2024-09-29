@@ -58,6 +58,11 @@ ul {
   color: #434455;
 }
 
+.link:hover,
+.contact-link:hover {
+  color: #404bbf;
+}
+
 .heading {
   font-weight: 700;
   font-size: 56px;
